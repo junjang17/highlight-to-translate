@@ -1,0 +1,31 @@
+{
+ "manifest_version": 2,
+ "name": "Highlight Translator",
+ "description": "Highlight text to see the translated text!",
+ "version": "1",
+ "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+ "author": "Jun Jang",
+"browser_action": {
+   "default_icon": "off.png",
+   "default_title": "Click Translator",
+   "default_popup": "popup.html"
+ },
+ "permissions": ["activeTab"],
+ "content_scripts" : [
+ 	{
+ 		"matches": [
+                "http://*/*",
+                "https://*/*"
+        ],
+        "js": [
+                "content.js"
+        ],
+        
+        "css":["content.css"]
+ 	}
+
+ 	]
+}
