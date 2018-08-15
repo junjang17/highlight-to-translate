@@ -7,11 +7,11 @@ rather than the whole text.
 ## Usage
 Select the desired target language (default is English). Once selected, hit apply.
 
-![](/Users/junjang/Desktop/readme pics/Screen Shot 2018-08-14 at 8.42.23 PM.png)
+![](https://imgur.com/4lmHfAh)
 
 Highlight the word, phrase, or paragraph to be translated to see your translation!
 
-![Screen Shot 2018-08-14 at 8.43.37 PM](/Users/junjang/Desktop/readme pics/Screen Shot 2018-08-14 at 8.43.37 PM.png)
+![](https://i.imgur.com/RVceJcC.png)
 
 Once the translation is visible, click anywhere else on the screen to remove the popup.
 
