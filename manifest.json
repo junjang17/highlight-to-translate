@@ -1,6 +1,6 @@
 {
  "manifest_version": 2,
- "name": "Highlight Translator",
+ "name": "Highlight to Translate",
  "description": "Highlight text to see the translated text!",
  "version": "1",
  "background": {
