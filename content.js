@@ -11,8 +11,8 @@ document.body.appendChild(translate_popup);
 var sponsor = document.createElement("a");
 sponsor.href = "http://translate.yandex.com/";
 var sponsor_txt = document.createTextNode("Powered by Yandex.Translate");
+sponsor.className = "link_color";
 sponsor.appendChild(sponsor_txt);
-
 
 
 // Function selects text from DOM
@@ -45,10 +45,13 @@ document.addEventListener("mouseup", function(event){
 	chrome.runtime.sendMessage({input: t, lang: lang_code}, function(response) {
         selection = response.message
         if(selection != ''){
-            $("div.popup-tag").css("display","block");
-            $("div.popup-tag").css("top",event.pageY);
-            $("div.popup-tag").css("left",event.pageX);
+            $("div.popup-tag").css("display", "block");
+            $("div.popup-tag").css("top", event.pageY);
+            $("div.popup-tag").css("left", event.pageX);
             $("div.popup-tag").text(selection);
+            $("div.popup-tag").append("<br>");
+            $("div.popup-tag").append("<br>");
+            translate_popup.appendChild(sponsor);
         }
 
 	});

@@ -1,6 +1,5 @@
 let load_popup = function(){
-	let api_key = "trnsl.1.1.20180802T063445Z.6cdcc4943bd7745a." +
-	  	          "8ea9ab1d0024d1ea6d2659b320ad8e3751ad8467"
+	let api_key = //Insert YANDEX API KEY Here (https://translate.yandex.com/developers/keys)
 	let ui = "en"
 	let url = "https://translate.yandex.net/api/v1.5/tr.json/getLangs?key=" +
 			  api_key + "&ui=" + ui
@@ -23,10 +22,6 @@ let load_popup = function(){
 	http_request.open("POST", url, true);
 	http_request.send();
 };
-
-let toggle = false;
-
-
 
 load_popup();
 
