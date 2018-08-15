@@ -5,7 +5,7 @@ rather than the whole text.
 
 
 ## Usage
-Select the desired target language (default is English). Once selected, hit apply.
+Select the desired target language by clicking the extension icon on the top right of Chrome (default is English). Once selected, hit apply.
 
 ![](https://i.imgur.com/4lmHfAh.png)
 
