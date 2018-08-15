@@ -7,7 +7,7 @@ rather than the whole text.
 ## Usage
 Select the desired target language (default is English). Once selected, hit apply.
 
-![](https://imgur.com/4lmHfAh)
+![](https://i.imgur.com/4lmHfAh)
 
 Highlight the word, phrase, or paragraph to be translated to see your translation!
 
