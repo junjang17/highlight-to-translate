@@ -3,12 +3,17 @@ Highlight-To-Translate is a Chrome extension that allows users to translate text
 This tool is especially useful for language learners who need quick, convenient translations of a few words or phrases
 rather than the whole text.
 
+## Setup
+Obtain a free Yandex API key from https://translate.yandex.com/developers/keys. Once obtained, paste key into popup.js where indicated:
+<p align="center">
+  <img src="https://i.imgur.com/6C9t2uc.png">
+</p>
+
 
 ## Usage
 Select the desired target language by clicking the extension icon on the top right of Chrome (default is English). Once selected, hit apply.
 <p align="center">
   <img src="https://i.imgur.com/4lmHfAh.png">
-
 </p>
 
 
