@@ -4,11 +4,17 @@ This tool is especially useful for language learners who need quick, convenient 
 rather than the whole text.
 
 ## Setup
+Download the source code.
+
 Obtain a free Yandex API key from https://translate.yandex.com/developers/keys. Once obtained, paste key into popup.js where indicated:
 <p align="center">
   <img src="https://i.imgur.com/6C9t2uc.png">
 </p>
 
+Once key is entered into popup.js, zip the source code folder into a .zip file and upload it to chrome://extensions/
+<p align="center">
+  <img src="https://i.imgur.com/hTXP2sZ.png">
+</p>
 
 ## Usage
 Select the desired target language by clicking the extension icon on the top right of Chrome (default is English). Once selected, hit apply.
