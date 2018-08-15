@@ -14,7 +14,7 @@ Select the desired target language by clicking the extension icon on the top rig
 
 Highlight the word, phrase, or paragraph to be translated to see your translation!
 
-![](https://i.imgur.com/RVceJcC.png)
+![](https://i.imgur.com/uhycA3S.png)
 
 Once the translation is visible, click anywhere else on the screen to remove the popup.
 
