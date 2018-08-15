@@ -6,8 +6,12 @@ rather than the whole text.
 
 ## Usage
 Select the desired target language by clicking the extension icon on the top right of Chrome (default is English). Once selected, hit apply.
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  ![](https://i.imgur.com/4lmHfAh.png)
 
-![](https://i.imgur.com/4lmHfAh.png)
+</p>
+
 
 Highlight the word, phrase, or paragraph to be translated to see your translation!
 
